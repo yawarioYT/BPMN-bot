@@ -1,33 +1,13 @@
 # BPMN-bot
 Репозиторий для проекта бота по составлению BPMN схем 
 # Graphviz - Graph Visualization Tools
-
-[![build status](https://gitlab.com/graphviz/graphviz/badges/main/pipeline.svg)](https://gitlab.com/graphviz/graphviz/-/pipelines/)
-
-from AT&amp;T Research and Lucent Bell Labs
-
-* https://graphviz.org/
-
-See https://graphviz.org/doc/build.html for prerequisites and detailed build notes.
-
+from yawarioYT
 ## main GIT Repository
-
 The main GIT Repository for graphviz can be found at:
-
-* https://gitlab.com/graphviz/graphviz/
-
-## Support
-
-Graphviz is maintained by a few very talented volunteers, and with some help from its founders. Financial donations are accepted on [patreon](https://patreon.com/graphviz). Anyone who is able to fund a summer intern project (or other project) based on graphviz is invited to contact any of the project leaders, e.g. send a message to north on graphviz org).
-
-This project has only 3 of its founders remaining as volunteer maintainers, and support is limited and may end soon. If you can help fund to a more formal foundation to continue this project, please contact north on graphviz org.
-
+* https://gitlab.com/graphviz/graphviz
 ## Documentation
-
 The Graphviz documents are currently hosted at https://graphviz.org/
-
 ## Graph Visualization ( https://graphviz.org/about/ )
-
 Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks. It has important applications in networking, bioinformatics,  software engineering, database and web design, machine learning, and in visual interfaces for other technical domains.
 
 Graphviz is open source graph visualization software. It has several main layout programs. See the gallery for sample layouts. It also has web and interactive graphical interfaces, and auxiliary tools, libraries, and language bindings. We're not able to put a lot of work into GUI editors but there are quite a few external projects and even commercial tools that incorporate Graphviz. You can find some of these in the Resources section.
